@@ -1,1 +1,1 @@
-# Logarithms-DataScience
+This is a study I first completed into the realm of Logarithmic Transformation and Predictive Modeling,  I thought the concept was so fun, including examining housing data from 1970s Boston. This was definitely the project that got me obsessed with machine learning; I lost a few hours on this one.
